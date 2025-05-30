@@ -1269,7 +1269,7 @@ EDBO|Oehna|51.9|13.05||EDWW|0
 EDBP|Pinnow|53.615114|11.561033||EDWW|0
 EDBQ|Bronkow|51.670667|13.960167||EDWW|0
 EDBR|Rothenburg (Oberlausitz)|51.366667|14.95||EDMM|0
-EDBS|Sommerda-Dermsdorf|51.2|11.2||EDMM|0
+EDBS|Sommerda-Dermsdorf|51.2|11.2F||EDMM|0
 EDBT|Allstedt|51.380556|11.446667||EDMM|0
 EDBU|Pritzwalk-Sommersberg|53.180556|12.185556||EDWW|0
 EDBV|Stralsund|54.338667|13.046833||EDWW|0
@@ -18649,6 +18649,9 @@ ULLL-KT|Sankt-Peterburg ACC, sector Kotlas - Peterburg|ULLL_KT|ULLL-KT
 ULLL-WK|Sankt-Peterburg ACC, sectors Kotlas, Vologda - Peterburg|ULLL_WK|ULLL-WK
 UMKK|Kaliningrad||UMKK
 UMMV|Minsk|UMMM|UMMV
+UMMV-N|Minsk ACC sector North|UMMV_N|UMMV-N
+UMMV-S|Minsk ACC sector South|UMMV_S|UMMV-S
+UMMV-W|Minsk ACC sector West|UMMV_W|UMMV-W
 UNKL|Krasnoyarsk||UNKL
 UNKL-N|Krasnoyarsk ACC Sector North - Krasnoyarsk|UNKL_N|UNKL-N
 UNKL-N1|Krasnoyarsk ACC Sector North 1 - Krasnoyarsk|UNKL_N1|UNKL-N1
